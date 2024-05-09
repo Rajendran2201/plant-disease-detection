@@ -47,7 +47,6 @@ python app.py
 ## Technologies Used
 
 - Python
-- Flask
 - TensorFlow
 - OpenCV
 - Machine Learning (CNN)
